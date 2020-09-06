@@ -4,7 +4,6 @@ import numpy as np
 import pandas as pd
 import re
 
-#
 # test csv file
 TEST_CSV = 'data/test_info.csv'
 

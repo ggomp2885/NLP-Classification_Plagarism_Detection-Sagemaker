@@ -2,7 +2,6 @@ import re
 import pandas as pd
 import operator 
 
-#
 # Add 'datatype' column that indicates if the record is original wiki answer as 0, training data 1, test data 2, onto 
 # the dataframe - uses stratified random sampling (with seed) to sample by task & plagiarism amount 
 
