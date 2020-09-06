@@ -8,7 +8,11 @@ https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c4147f9_dat
 ### Files in this repository and their purpose
 #### Folders
 
-   source_sklearn - Folder containing the train.py file for the Sklearn model parameters
+   data - contains dataset used
+   
+   notebook_ims - contains
+   
+   plagiarism_data - 
   
 
 #### Files
@@ -20,10 +24,12 @@ https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c4147f9_dat
    
    3_Training_a_Model.ipynb - the dataset used for the project
    
-   helpers.py - Contains functions to aid in the preprocessing of the text data
+   helpers.py - Contains unit testing functions
    
-   problem_unittests.py - Contains functions to run unit test checks throughout the notebook
+   problem_unittests.py
    
+   train.py
+
    LICENSE - MIT license for this project
 
    README - this file
